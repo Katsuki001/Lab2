@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571861464773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EE4C8BF2",
+    "lastKnownWriteTime" : 1571862769,
+    "last_content_update" : 1571862769921,
+    "path" : "~/Desktop/Weill_Cornell/Fall_2019/Data_Science_1/lab2/Lab2/R/statistics.R",
+    "project_path" : "R/statistics.R",
+    "properties" : {
+        "cursorPosition" : "18,10",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

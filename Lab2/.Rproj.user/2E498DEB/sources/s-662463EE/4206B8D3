@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571859824083.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4206B8D3",
+    "lastKnownWriteTime" : 1571862695,
+    "last_content_update" : 1571862695287,
+    "path" : "~/Desktop/Weill_Cornell/Fall_2019/Data_Science_1/lab2/Lab2/R/boxplot.R",
+    "project_path" : "R/boxplot.R",
+    "properties" : {
+        "cursorPosition" : "16,2",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

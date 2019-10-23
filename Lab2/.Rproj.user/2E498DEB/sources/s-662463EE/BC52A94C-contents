@@ -1,0 +1,10 @@
+Package: Lab2
+Type: Package
+Title: BOXPLOT AND STATISTICS FOR DRG CODE
+Version: 0.1.0
+Author: Yitian He
+Maintainer: Joe Developer <Joe.Developer@some.domain.net>
+Description: Contains two function to generate boxplot and statistics of DRG code
+License: None
+Encoding: UTF-8
+LazyData: true
